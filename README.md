@@ -48,4 +48,4 @@ Updates
 - Ubuntu 20.04
 
 ---
-如果有疑问，请邮件联系：jzhang@hnust.edu.cn
+Correspondence should be addressed to jzhang@hnust.edu.cn
