@@ -1,14 +1,14 @@
 # UAV-DETR+
 # UAV-DETR+: More tiny pixels and frequency information help small object detection
 
-## 🚀 Updates
+Updates
 - **[2025.6]**​ Release UAV-DETR+-R50, UAV-DETR+-R18.
 
   
 
 - 🔥 ​**UAV-DETR+**
 
----
+
 
 ## Experimental Results on the VisDrone-2019-DET Val Dataset
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Experimental Results on UAVVaste Dataset
+## Experimental Results on UAVVaste Val Dataset
 
 | **Model**​            | **Params (M)**​ | **GFLOPs**​ | **AP**​ | **AP$_{50}$**​ |
 | -------------------- | -------------- | ---------- | ------ | ------------- |
@@ -48,4 +48,4 @@
 - Ubuntu 20.04
 
 ---
-如果仍有疑问，请邮件联系：jzhang@hnust.edu.cn
+如果有疑问，请邮件联系：jzhang@hnust.edu.cn
