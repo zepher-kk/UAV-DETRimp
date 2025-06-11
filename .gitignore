@@ -1,0 +1,22 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+runs/
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm or other IDEs configuration files
+.idea/
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
