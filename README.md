@@ -3,7 +3,7 @@
 
 Updates
 - **[2025.6]**​ Release UAV-DETR+-R50, UAV-DETR+-R18.
-
+paper : https://doi.org/10.1117/1.JEI.34.5.053032
   
 
 - 🔥 ​**UAV-DETR+**
